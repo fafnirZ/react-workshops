@@ -15,7 +15,7 @@ const style = {
 
 
 export default function Parent() {
-  // TODO
+  // TODO this will require refactoring 
   return (
     <div style={style}>
       <div style={{ textAlign: "center" }}>Parent component</div>
